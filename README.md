@@ -2,11 +2,11 @@
 #### I am Python junior developer
 I am studying programming in a self-taught way and I try to focus on scraping and data processing by implementing machine learning libraries in python.
 
-Skills: Python: Pandas / Selenium / Fast AI
+Skills: Python: Pandas / Selenium / Fast AI / django
 
-- 🔭 I’m currently working on an application for the video game "eve online" that suggests, based on real-time market prices, which is the most profitable mineral to extract at that time. 
-- 🌱 I’m currently learning the "Fast AI" library. 
-- 🤔 I’m looking for help with with the english language. 
+- 🔭 I’m currently working on an application for my job.
+- 🌱 I’m currently learning Django.
+- 🤔 I’m looking for help with the english language. 
 - 💬 Ask me about What is it like to live with Asperger's? I love to "understand" different points of view (especially if they are "obvious" things). 
 - 📫 How to reach me: diel.job@gmail.com 
 
