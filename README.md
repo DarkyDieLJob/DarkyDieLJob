@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Matías Leandro López
-#### I am Python junior developer
+#### I am Python developer
 I am studying programming in a self-taught way and I try to focus on scraping and data processing by implementing machine learning libraries in python.
 
-Skills: Python: Pandas / Selenium / Fast AI / django
+Skills: Python: Pandas / django / API cloud google / pythonanywhere deploy / 
 
 - 🔭 I’m currently working on an application for my job.
 - 🌱 I’m currently learning Django.
